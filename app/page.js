@@ -29,7 +29,7 @@ export default function Home() {
 </h1>
           <h3 className="text-2xl font-semibold text-purple-400 mt-2">Web Developer</h3>
           <p className="text-lg text-gray-300 mt-4">
-            Hi, I'm Tayyab, a passionate software engineering student in my 
+            Hi, I&apos;m Tayyab, a passionate software engineering student in my 
             <span className="text-green-400 font-semibold"> 6th semester</span>.  
             I specialize in <span className="text-green-400 font-semibold">HTML, CSS, JavaScript, React.js, and Next.js</span>.  
             In addition, I have experience with <span className="text-blue-400 font-semibold">Tailwind CSS</span> for styling.  
