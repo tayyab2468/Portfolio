@@ -105,7 +105,7 @@ const Contact = () => {
   <div className="flex items-center justify-center space-x-3">
     <EmailIcon className="text-red-500" />
     <a 
-      href="mailto:wanderlust@gmail.com" 
+      href="mailto:tbasharat804@gmail.com" 
       className="text-gray-700 hover:text-red-500 transition"
     >
      tbasharat804@gmail.com
@@ -115,7 +115,7 @@ const Contact = () => {
   <div className="flex items-center justify-center space-x-3">
     <PhoneIcon className="text-green-500" />
     <a 
-      href="tel:+923001234567" 
+      href="tel:+923087133907" 
       className="text-gray-700 hover:text-green-500 transition"
     >
       +92 308 7133907
